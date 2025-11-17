@@ -65,7 +65,7 @@ The **Random Forest** classifier delivered the highest **Recall (89.0%)** and **
 ### How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link>
+    git clone https://github.com/Pham-Hoang-Phuc/Heart_Disease.git
     cd heart-disease-prediction
     ```
 2.  **Install dependencies:**
