@@ -81,9 +81,8 @@ The **Random Forest** classifier delivered the highest **Recall (89.0%)** and **
 
 ## Project Structure
 ````
-
-├── heart.csv/                                \# Raw dataset file
-├── heart-disease-prediction-3-models.ipynb/  \# Jupyter notebooks for EDA and Model Training
-├── README.md                                 \# Project documentation
-└── requirements.txt                          \# Project dependencies
+├── heart.csv/                                (Raw dataset file)
+├── heart-disease-prediction-3-models.ipynb/  (Jupyter notebooks for EDA and Model Training)
+├── README.md                                 (Project documentation)
+└── requirements.txt                          (Project dependencies)
 ````
